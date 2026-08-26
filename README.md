@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=250&size=18&pause=1000&color=3C3CE8&width=450&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
 
-Hello! I’m CEO_OfCats, an 18 y.o B.Tech Computer Science student, focused on building strong programming fundamentals and learning real-world development step-by-step as I contribute in open-source projects and work on personal projects.
+Hello! I’m CEO_OfCats, an 18 y.o Computer Science student, focused on building strong programming fundamentals and learning real-world development step-by-step as I contribute in open-source projects and work on personal projects.
 My coding journey started in October 2025, and I’ve been experimenting ever since to implement creative solutions to real-world problems.
 
 You will mostly see me here making repos for my own entertainment (Hence, most are private..) and sometimes making something actually useful (?).
