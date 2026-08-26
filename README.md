@@ -7,7 +7,7 @@
 Hello! I’m CEO_OfCats, an 18 y.o B.Tech Computer Science student, focused on building strong programming fundamentals and learning real-world development step-by-step as I contribute in open-source projects and work on personal projects.
 My coding journey started in October 2025, and I’ve been experimenting ever since to implement creative solutions to real-world problems.
 
-You will mostly see me here making repos for my own entertainment and sometimes making something actually useful (?).
+You will mostly see me here making repos for my own entertainment (Hence, most are private..) and sometimes making something actually useful (?).
 
 Outside my academic and professional pursuits, I am passionate about music, art and video games ;D
 
